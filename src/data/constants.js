@@ -34,13 +34,8 @@ import porto13 from "../images/porto13.png";
 import porto14 from "../images/porto14.png";
 
 export const Bio = {
-  name: "Deddy Prianto,S.Kom",
-  roles: [
-    "Frontend Web Developer",
-    "Frontend Mobile Dev",
-    "NodeJS Developer",
-    "Fullstack Developer",
-  ],
+  name: "Deddy Prianto",
+  roles: ["Frontend Web Dev", "Frontend Mobile Dev", "Fullstack Dev"],
   description:
     "Saya adalah individu yang termotivasi dan serba bisa, selalu bersemangat untuk menghadapi tantangan baru. Dengan semangat untuk belajar, saya berdedikasi untuk memberikan hasil yang berkualitas tinggi. Dengan sikap positif dan pola pikir yang terus berkembang, saya siap untuk memberikan kontribusi yang berarti dan mencapai hal-hal besar",
   github: "https://github.com/deddyprianto",
