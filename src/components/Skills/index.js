@@ -124,7 +124,9 @@ const Skills = () => {
     <Container id="skills">
       <Wrapper>
         <Title>Skills</Title>
-        <Desc>Here are some of my skills on which I have been working on for the past 2 years.
+        <Desc>
+          Berikut ini adalah beberapa keahlian saya yang telah saya kembangkan
+          selama 3 tahun terakhir.
         </Desc>
         <SkillsContainer>
           {skills.map((skill) => (
@@ -133,18 +135,17 @@ const Skills = () => {
               <SkillList>
                 {skill.skills.map((item) => (
                   <SkillItem>
-                    <SkillImage src={item.image}/>
+                    <SkillImage src={item.image} />
                     {item.name}
                   </SkillItem>
                 ))}
               </SkillList>
             </Skill>
           ))}
-
         </SkillsContainer>
       </Wrapper>
     </Container>
-  )
+  );
 }
 
 export default Skills
