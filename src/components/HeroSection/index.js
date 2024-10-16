@@ -15,7 +15,7 @@ const HeroSection = () => {
           <HeroInnerContainer>
             <HeroLeftContainer id="Left">
               <Title>
-                Saya <br /> {Bio.name}
+                <br /> {Bio.name}
               </Title>
               <TextLoop>
                 Stack :

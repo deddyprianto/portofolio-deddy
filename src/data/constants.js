@@ -348,7 +348,7 @@ export const experiences = [
     role: "Frontend Engineer",
     company: "FABROTEC (M) SDN. BHD",
     date: "August 2024 - Oct 2024 / 2 Month",
-    desc: "Membuat App pemesanan barang online/ordering online shop, Bug Fix & Maintenance App, menambahkan fitur baru ke app",
+    desc: "Bug Fix & Maintenance App, menambahkan fitur baru ke app",
     skills: [
       "ReactJS",
       "React Native",
