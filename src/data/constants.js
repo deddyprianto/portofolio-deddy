@@ -40,7 +40,7 @@ export const Bio = {
     "Saya berdedikasi untuk memberikan hasil yang berkualitas tinggi. Dengan sikap positif dan pola pikir yang terus berkembang, saya siap untuk memberikan kontribusi yang berarti dan mencapai hal-hal besar",
   github: "https://github.com/deddyprianto",
   resume:
-    "https://drive.google.com/file/d/1kqYpfYo9Tjzq-5FjkHcjQnxOJicCPd2u/view?usp=drive_link",
+    "https://drive.google.com/file/d/1SR2ZJgcP678-AQ0JRGHkipGk_aBg7tot/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/deddy-prianto-a1ab30208/",
   twitter: "https://x.com/ddeeddyy1",
   insta: "https://www.instagram.com/deedyyshmbg_/",
