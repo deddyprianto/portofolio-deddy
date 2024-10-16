@@ -31,7 +31,7 @@ const HeroSection = () => {
               </TextLoop>
               <SubTitle>{Bio.description}</SubTitle>
               <ResumeButton href={Bio.resume} target="display">
-                Check Resume
+                Check My Resume
               </ResumeButton>
             </HeroLeftContainer>
 
