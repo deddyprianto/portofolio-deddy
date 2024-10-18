@@ -18,7 +18,7 @@ const HeroSection = () => {
                 <br /> {Bio.name}
               </Title>
               <TextLoop>
-                Stack :
+                Skill :
                 <Span>
                   <Typewriter
                     options={{
